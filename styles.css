@@ -1,0 +1,76 @@
+/* eightiesParagraph {
+    color:purple
+    }
+
+eightiesBack {
+    background-image:url('images/Prince2.jpeg')
+} */
+
+h1 {
+    font-family: arial;
+    font-size: 50px;
+    text-align: center;
+    }
+
+h2 {
+    font-family: arial;
+    font-size: 25;
+    color:red;
+    margin-bottom: 1px;
+}
+
+h3 {
+    font-size: 70px;
+    margin-bottom: 1px;
+    }
+
+h4 {
+    font-size: 70px;
+    margin-bottom: 1px;
+    color:purple
+    }
+
+/* section {
+    padding: 20;
+    display: flex;
+    flex-direction: row;
+    text-align: justify;
+
+} */
+
+/* .box1 {
+    background-image: url('images/EWF.jpg');
+    padding: 300px;
+    margin: 0px;
+    background-repeat: no-repeat;
+} */
+/* .box1 img{
+    max-width: 100%;
+    height: auto;
+}
+
+.paraText {
+    position: absolute;
+    top: 270px;
+    padding: 10px;
+    margin-right:200px;
+}
+.paraText2 {
+    position: absolute;
+    top: 600px;
+    padding: 10px;
+    margin-right:330px; */
+
+/* section:nth-of-type(1){
+    background-image: url('images/EWF.jpg');
+    background-position: left;
+}
+section:nth-of-type(2){
+    background-image: url('images/Prince2.jpeg');
+    background-position: left;
+}
+section:nth-of-type(3){
+    background-image: url('images/Tonies.jpeg');
+    background-position: left;
+} */
+
